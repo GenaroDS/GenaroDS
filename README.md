@@ -1,9 +1,10 @@
 # Hi there 👋
+--
 I'm Genaro Di Stilio, a computer science student. As I work towards completing my degree, I've been developing my skills as a developer by working on various personal projects. This includes various Java frameworks, including Vaadin, Spring Boot, and Spring Data. I'm also proficient in plain/vanilla Java, MySQL, and Hibernate.
 
 If you're interested in seeing some of my code, please take a look below! I'm always looking for feedback and ways to improve, so any comments or suggestions are appreciated.
 
----
+--
 
 ### Languages and Tools
 
