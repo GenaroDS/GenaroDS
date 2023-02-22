@@ -3,12 +3,11 @@ I'm Genaro Di Stilio a computer science student. As I work towards completing my
 
 If you're interested in seeing some of my code, please take a look below! I'm always looking for feedback and ways to improve, so any comments or suggestions are appreciated.
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Vaadin" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1171922?v=4&s=40" />
-
 <img align="left" alt="MySql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
