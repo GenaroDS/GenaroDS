@@ -12,7 +12,7 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/genarods/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="genarods" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/genarods/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="genarods" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
