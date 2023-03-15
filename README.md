@@ -19,10 +19,8 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Vaadin" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1171922?v=4&s=40" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Posgre" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
 
-
-<br />
-<br />
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=genarods&theme=algolia&show_icons=true" alt="genarods" /></p>
   
