@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
 
-- 🔭 I’m currently working on [a python pingtester app](https://github.com/GenaroDS/PingTest)
+- 🔭 I’m currently working on a [pingtester app](https://github.com/GenaroDS/PingTest)
 
 - 👨‍💻 All of my projects are available at [https://github.com/GenaroDS?tab=repositories](https://github.com/GenaroDS?tab=repositories)
 
