@@ -4,10 +4,10 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 
 ---
 <h5>
-- 🔭 I’m currently working on a [PingTester ](https://github.com/GenaroDS/PingTest) app.
+- 🔭 I’m currently working on a [PingTester](https://github.com/GenaroDS/PingTest) app.
 - 👨‍💻 All of my projects are available on my [repositories](https://github.com/GenaroDS?tab=repositories) tab.
 - 📫 Contact me **genarodistilio@gmail.com**.
-</h5>
+
 ---
 ### Languages, frameworks and Tools
 
