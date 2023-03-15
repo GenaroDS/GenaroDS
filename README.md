@@ -32,4 +32,5 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genarods&show_icons=true&locale=en&layout=compact" alt="genarods" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genarods&show_icons=true&locale=en" alt="genarods" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+" alt="genarods" /></p>
