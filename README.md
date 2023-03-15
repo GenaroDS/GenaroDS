@@ -34,3 +34,37 @@ If you're interested in seeing some of my code, please take a look below! I'm al
   
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
 </p>
+  
+  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex;">
+    <div style="padding-right:10px;">
+      <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    </div>
+    <div style="padding-right:10px;">
+      <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    </div>
+    <div style="padding-right:10px;">
+      <img alt="MySql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    </div>
+    <div style="padding-right:10px;">
+      <img alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    </div>
+    <div style="padding-right:10px;">
+      <img alt="Vaadin" width="40px" src="https://avatars.githubusercontent.com/u/1171922?v=4&s=40" />
+    </div>
+    <div style="padding-right:10px;">
+      <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    </div>
+    <div>
+      <img alt="Posgre" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+    </div>
+  </div>
+  <div>
+    <p>
+      <a href="https://www.linkedin.com/in/genarods/" target="blank">
+        <img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="genarods" height="50" width="50" />
+      </a>
+    </p>
+  </div>
+</div>
+
