@@ -11,6 +11,7 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 
 - 📫 How to reach me **genarodistilio@gmail.com**.
 
+---
 
 ### Languages, frameworks and Tools
 
