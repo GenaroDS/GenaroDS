@@ -8,7 +8,7 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 
 - 👨‍💻 All of my projects are available on my [repositories](https://github.com/GenaroDS?tab=repositories) tab.
 
-- 📫 How to reach me genarodistilio@gmail.com.
+- 📫 How to reach me **genarodistilio@gmail.com**.
 
 ---
 
