@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Genaro Di Stilio</h1>
-<h3 align="center">I'm a software developer and a computer science student. As I work towards completing my degree, I've been developing my skills as a developer by working on various personal projects that involve diverse languages, technologies and frameworks, including Java, Python, Vaadin, Spring Boot, Spring Data, MySQL, Hibernate and others.
-If you're interested in seeing some of my code, please take a look below! I'm always looking for feedback and ways to improve, so any comments or suggestions are appreciated.</h3>
+I'm a software developer and a computer science student. As I work towards completing my degree, I've been developing my skills as a developer by working on various personal projects that involve diverse languages, technologies and frameworks, including Java, Python, Vaadin, Spring Boot, Spring Data, MySQL, Hibernate and others.
+If you're interested in seeing some of my code, please take a look below! I'm always looking for feedback and ways to improve, so any comments or suggestions are appreciated.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
 
