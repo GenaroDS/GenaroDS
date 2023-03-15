@@ -21,6 +21,7 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 
 <br><br>
 ---
+<br><br>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=genarods&theme=algolia&show_icons=true" alt="genarods" /></p>
   
