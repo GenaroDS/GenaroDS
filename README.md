@@ -3,9 +3,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
 
-- 🔭 I’m currently working on a [PingTester ](https://github.com/GenaroDS/PingTest) app.
+- 🔭 I’m currently working on a [PingTester](https://github.com/GenaroDS/PingTest) app.
 
-- 👨‍💻 All of my projects are available at [https://github.com/GenaroDS?tab=repositories](https://github.com/GenaroDS?tab=repositories)
+- 👨‍💻 All of my projects are available on my [repositories](https://github.com/GenaroDS?tab=repositories)
 
 - 📫 How to reach me **genarodistilio@gmail.com**
 
