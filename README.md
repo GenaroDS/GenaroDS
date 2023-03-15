@@ -1,8 +1,9 @@
-# Hi there, I'm Genaro Di Stilio 👋
-I'm a developer and a computer science student. As I work towards completing my degree, I've been developing my skills as a developer by working on various personal projects that involve diverse technologies and frameworks, including Vaadin, Spring Boot, Spring Data, MySQL, and Hibernate. I'm also proficient in plain/vanilla Java.
+# Hi there👋
+I'm Genaro Di Stilio, a developer and a computer science student. As I work towards completing my degree, I've been developing my skills as a developer by working on various personal projects that involve diverse technologies and frameworks, including Vaadin, Spring Boot, Spring Data, MySQL, and Hibernate. I'm also proficient in plain/vanilla Java.
 
 If you're interested in seeing some of my code, please take a look below! I'm always looking for feedback and ways to improve, so any comments or suggestions are appreciated.
 
+---
 
 - 🔭 I’m currently working on a [PingTester ](https://github.com/GenaroDS/PingTest) app.
 
@@ -10,7 +11,6 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 
 - 📫 How to reach me **genarodistilio@gmail.com**.
 
----
 
 ### Languages, frameworks and Tools
 
