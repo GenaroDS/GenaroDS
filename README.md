@@ -12,6 +12,7 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 ---
   
 </p>
+
 ### Languages, frameworks and Tools
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
