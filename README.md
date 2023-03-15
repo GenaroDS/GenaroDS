@@ -30,7 +30,6 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> </a> 
   </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genarods&show_icons=true&locale=en&layout=compact" alt="genarods" /></p>
 
-" alt="genarods" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genarods&show_icons=true&locale=en" alt="genarods" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genarods&show_icons=true&locale=en&layout=compact" alt="genarods" /></p>
