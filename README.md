@@ -9,6 +9,7 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 
 - 📫 How to reach me **genarodistilio@gmail.com**
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
 
 <h3 align="left">Connect with me:</h3>
