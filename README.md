@@ -11,8 +11,6 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 
 ---
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -22,6 +20,8 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 
 ### Languages and Tools
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Vaadin" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1171922?v=4&s=40" />
@@ -29,6 +29,8 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"" />
+
+</p>
 <br />
 
 
