@@ -6,9 +6,7 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 ---
 
 - 🔭 I’m currently working on a [PingTester ](https://github.com/GenaroDS/PingTest) app.
-
 - 👨‍💻 All of my projects are available on my [repositories](https://github.com/GenaroDS?tab=repositories) tab.
-
 - 📫 How to reach me **genarodistilio@gmail.com**.
 
 ---
