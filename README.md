@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Genaro Di Stilio</h1>
-<h3 align="center">I'm a software developer and a computer science student. As I work towards completing my degree, I've been developing my skills as a developer by working on various personal projects that involve diverse languages, technologies and frameworks, including Java, Python, Vaadin, Spring Boot, Spring Data, MySQL, Hibernate and others. \n
+<h3 align="center">I'm a software developer and a computer science student. As I work towards completing my degree, I've been developing my skills as a developer by working on various personal projects that involve diverse languages, technologies and frameworks, including Java, Python, Vaadin, Spring Boot, Spring Data, MySQL, Hibernate and others.
 If you're interested in seeing some of my code, please take a look below! I'm always looking for feedback and ways to improve, so any comments or suggestions are appreciated.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
@@ -12,7 +12,7 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/genarods/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="genarods" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/genarods/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="genarods" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
