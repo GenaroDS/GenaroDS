@@ -10,22 +10,6 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 - 📫 How to reach me **genarodistilio@gmail.com**.
 
 ---
-
-<p float="left">
-<p>
-  ### Languages, frameworks and Tools
-
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="MySql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Vaadin" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1171922?v=4&s=40" />
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Posgre" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-</p>
-
-<p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genarods&theme=algolia&show_icons=true" alt="genarods" /></p>
-<p>
   
 </p>
 ### Languages, frameworks and Tools
@@ -37,11 +21,11 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 <img align="left" alt="Vaadin" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1171922?v=4&s=40" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Posgre" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+</p>
 
-</br>
 
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genarods&theme=algolia&show_icons=true" alt="genarods" /></p>
   
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
-</p>
+
 
