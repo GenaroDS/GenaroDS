@@ -3,17 +3,17 @@ I'm a software developer and a computer science student. As I work towards compl
 
 If you're interested in seeing some of my code, please take a look below! I'm always looking for feedback and ways to improve, so any comments or suggestions are appreciated.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
-
 - 🔭 I’m currently working on [a python pingtester app](https://github.com/GenaroDS/PingTest)
 
 - 👨‍💻 All of my projects are available at [https://github.com/GenaroDS?tab=repositories](https://github.com/GenaroDS?tab=repositories)
 
 - 📫 How to reach me **genarodistilio@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/genarods/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="genarods" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/genarods/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="genarods" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
