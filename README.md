@@ -5,7 +5,7 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 
 - 🔭 I’m currently working on a [PingTester ](https://github.com/GenaroDS/PingTest) app.
 - 👨‍💻 All of my projects are available on my [repositories](https://github.com/GenaroDS?tab=repositories) tab.
-- 📫 How to reach me **genarodistilio@gmail.com**.
+- 📫 Contact me **genarodistilio@gmail.com**.
 
 ### Languages, frameworks and Tools
 
@@ -18,7 +18,7 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Posgre" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></p>
 
-
+<br><br><br><br>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=genarods&theme=algolia&show_icons=true" alt="genarods" /></p>
   
