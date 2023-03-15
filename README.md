@@ -22,6 +22,8 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 <img align="left" alt="Posgre" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
 
 
+
+
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genarods&theme=algolia&show_icons=true" alt="genarods" /></p>
   
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
