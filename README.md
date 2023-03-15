@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Genaro Di Stilio</h2>
+<h2 align="left">Hi 👋, I'm Genaro Di Stilio</h2>
 I'm a software developer and a computer science student. As I work towards completing my degree, I've been developing my skills as a developer by working on various personal projects that involve diverse languages, technologies and frameworks, including Java, Python, Vaadin, Spring Boot, Spring Data, MySQL, Hibernate and others. <br>
 If you're interested in seeing some of my code, please take a look below! I'm always looking for feedback and ways to improve, so any comments or suggestions are appreciated.<br>
 
