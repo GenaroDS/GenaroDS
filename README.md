@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Genaro Di Stilio</h1>
+<h1>Hi 👋, I'm Genaro Di Stilio</h1>
 I'm a software developer and a computer science student. As I work towards completing my degree, I've been developing my skills as a developer by working on various personal projects that involve diverse languages, technologies and frameworks, including Java, Python, Vaadin, Spring Boot, Spring Data, MySQL, Hibernate and others.
 
 If you're interested in seeing some of my code, please take a look below! I'm always looking for feedback and ways to improve, so any comments or suggestions are appreciated.
 
-- 🔭 I’m currently working on [a python pingtester app](https://github.com/GenaroDS/PingTest)
+- 🔭 I’m currently working on a [ python ping tester app](https://github.com/GenaroDS/PingTest)
 
 - 👨‍💻 All of my projects are available at [https://github.com/GenaroDS?tab=repositories](https://github.com/GenaroDS?tab=repositories)
 
