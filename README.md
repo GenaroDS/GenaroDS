@@ -28,7 +28,7 @@ If you're interested in seeing some of my code, please take a look below! I'm al
 ---
 
 
-<p align="left"><img align="center" src="https://github-readme-stats.sigma-five.vercel.app/api?username=genarods&theme=algolia&show_icons=true" alt="genarods" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=genarods&theme=algolia&show_icons=true" alt="genarods" /></p>
   
 <p align="right"><img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
 
