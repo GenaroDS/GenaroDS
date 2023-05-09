@@ -3,12 +3,10 @@ I'm a software developer and a computer science student. As I work towards compl
 
 If you're interested in seeing some of my code, please take a look below! I'm always looking for feedback and ways to improve, so any comments or suggestions are appreciated.
 
-- 🔭 I’m currently working on a [WebPortfolio](https://github.com/GenaroDS/WebPortfolio) app.
-- 🌱 I’m currently improving my web developer skills.
+- 🔭 I'm currently finishing up polishing details on my [WebPortfolio](https://github.com/GenaroDS/WebPortfolio) app.
+- 🌱 I’m currently sharpening my coding skills with Leetcode.
 - 👨‍💻 All of my projects are available on my [repositories](https://github.com/GenaroDS?tab=repositories) tab.
 - 📫 Contact me **genarodistilio@gmail.com**.
-
-Dont forget to visit my [portfolio](https://gdsportfolio.netlify.app/) !
 
 ---
 ### Languages, frameworks and Tools
