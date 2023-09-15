@@ -1,13 +1,12 @@
 <h2 align="center">Hi 👋, I'm Genaro Di Stilio</h2>
 I'm a software developer at Emotion IT SA and an advanced computer science student at Universidad Siglo 21.  
-
-
+<br>
 As I advance through my college degree, I've been working on several professional and personal projects that include a diverse range of languages, technologies, and frameworks.
 
 If you're interested in seeing some of the code from my personal projects, please take a look below! I'm always looking for feedback and ways to improve, so any comments or suggestions are appreciated.
 
 - 🔧 I'm Currently polishing details of my [WebPortfolio](https://github.com/GenaroDS/WebPortfolio) app
-- 🌱 Also, I’m actively learning French
+- 🌱 Additionally, I’m actively learning French
 - 👨‍💻 All of my projects are available on my [repositories](https://github.com/GenaroDS?tab=repositories) tab
 - 📫 Contact me **genarodistilio@gmail.com**
 
