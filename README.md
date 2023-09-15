@@ -6,7 +6,7 @@ As I advance through my college degree, I've been working on several professiona
 If you're interested in seeing some of the code from my personal projects, please take a look below! I'm always looking for feedback and ways to improve, so any comments or suggestions are appreciated.
 
 - 🔧 I'm polishing details of my [WebPortfolio](https://github.com/GenaroDS/WebPortfolio) app
-- 🌱 I’m currently learning my third language, French.
+- 🌱 I’m currently learning French
 - 👨‍💻 All of my projects are available on my [repositories](https://github.com/GenaroDS?tab=repositories) tab
 - 📫 Contact me **genarodistilio@gmail.com**
 
