@@ -15,14 +15,14 @@ If you're interested in seeing some of the code from my personal projects, pleas
 ### Languages, frameworks and Tools
 
 <p align="right"> 
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Javascript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Css3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Html5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
-<img align="left" alt="Vaadin" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1171922?v=4&s=40" />
-<img align="left" alt="Git" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Java" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C#" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Javascript" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Css3" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Html5" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
+<img align="left" alt="Vaadin" width="48px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1171922?v=4&s=40" />
+<img align="left" alt="Git" width="48px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 ![icons8-microsoft-sql-server-48](https://github.com/GenaroDS/GenaroDS/assets/87452846/08da6def-2a60-447e-b330-6f9cec7e6685)
 
