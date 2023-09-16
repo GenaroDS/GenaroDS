@@ -26,8 +26,6 @@ If you're interested in seeing some of the code from my personal projects, pleas
 
 ![icons8-microsoft-sql-server-48](https://github.com/GenaroDS/GenaroDS/assets/87452846/08da6def-2a60-447e-b330-6f9cec7e6685)
 
-<br><br>
-
 ---
 
 
