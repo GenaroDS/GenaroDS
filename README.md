@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h2 align="center">Hi 👋, I'm Genaro Di Stilio</h2>
 
 I'm a software developer at Emotion IT SA and an advanced computer science student at Universidad Siglo 21.<br>
