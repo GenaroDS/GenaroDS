@@ -24,7 +24,7 @@ If you're interested in seeing some of the code from my personal projects, pleas
 <img align="left" alt="Html5" width="40px" style="padding-right:10px;" src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" />            
 <img align="left" alt="Vaadin" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1171922?v=4&s=40" />
   
-<img align="left" alt="MySql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+![icons8-microsoft-sql-server-48](https://github.com/GenaroDS/GenaroDS/assets/87452846/89446f53-60c7-4102-b903-732e29b93790)
 
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
@@ -38,4 +38,4 @@ If you're interested in seeing some of the code from my personal projects, pleas
 <p align="right"><img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
 
 
-![icons8-microsoft-sql-server-48](https://github.com/GenaroDS/GenaroDS/assets/87452846/89446f53-60c7-4102-b903-732e29b93790)
+
