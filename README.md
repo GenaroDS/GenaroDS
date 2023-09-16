@@ -12,7 +12,7 @@ If you're interested in seeing some of the code from my personal projects, pleas
 - 📫 Contact me **genarodistilio@gmail.com**
 
 ---
-### Languages, frameworks and Tools
+### Languages, frameworks and Tools 
 
 <p align="right"> 
 <img align="left" alt="Java" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -27,7 +27,6 @@ If you're interested in seeing some of the code from my personal projects, pleas
 ![icons8-microsoft-sql-server-48](https://github.com/GenaroDS/GenaroDS/assets/87452846/08da6def-2a60-447e-b330-6f9cec7e6685)
 
 ---
-
 
 <p align="left"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=genarods&theme=algolia&show_icons=true" alt="genarods" /></p>
   
