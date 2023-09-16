@@ -38,3 +38,4 @@ If you're interested in seeing some of the code from my personal projects, pleas
 <p align="right"><img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
 
 
+![icons8-microsoft-sql-server-48](https://github.com/GenaroDS/GenaroDS/assets/87452846/89446f53-60c7-4102-b903-732e29b93790)
