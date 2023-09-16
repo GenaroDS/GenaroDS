@@ -23,8 +23,7 @@ If you're interested in seeing some of the code from my personal projects, pleas
 <img align="left" alt="Html5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
 <img align="left" alt="Vaadin" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1171922?v=4&s=40" />
 ![icons8-microsoft-sql-server-48](https://github.com/GenaroDS/GenaroDS/assets/87452846/945d5fe4-03ce-4d9a-8a67-ee5a12e88076)
-<img align="left" alt="Git" width="40px" style="padding-right:10p![Uploading icons8-microsoft-sql-server-48.png…]()
-x;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br><br>
 
