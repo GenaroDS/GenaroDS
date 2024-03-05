@@ -11,7 +11,7 @@ If you're interested in seeing some of the code from my personal projects, pleas
 - 📫 Contact me **genarodistilio@gmail.com**
 
 ---
-### Languages, frameworks and Tools <br>
+### Languages, frameworks and ools <br>
 
 <p align="right"> 
 <img align="left" alt="Java" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
