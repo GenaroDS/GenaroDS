@@ -9,6 +9,7 @@ Here you can check out the personal projects I've been working on. If you're int
 - 📫 Contact me **genarodistilio@gmail.com**
 
 ---
+<br>
 ### Languages, frameworks and tools <br>
 <br>
 <p align="right"> 
