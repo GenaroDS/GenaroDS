@@ -10,7 +10,7 @@ Here you can check out the personal projects I've been working on. If you're int
 
 ---
 ### Languages, frameworks and tools <br>
-<br>
+
 <p align="right"> 
 <img align="left" alt="Java" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -25,7 +25,7 @@ Here you can check out the personal projects I've been working on. If you're int
 ![icons8-microsoft-sql-server-48](https://github.com/GenaroDS/GenaroDS/assets/87452846/08da6def-2a60-447e-b330-6f9cec7e6685)
 
 
----
+
   
 <p align="right"><img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
 
