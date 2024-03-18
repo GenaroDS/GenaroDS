@@ -1,4 +1,4 @@
-<h2 align="center">Genaro Di Stilio</h2>
+<h2 align="center">Hi, I'm Genaro Di Stilio</h2>
 
 Software developer and advanced computer science student.<br>
 
