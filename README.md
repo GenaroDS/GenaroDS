@@ -21,6 +21,7 @@ Here you can check out the personal projects I've been working on. If you're int
 <img align="left" alt="DotNet" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
 <img align="left" alt="Git" width="48px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
+
 ![icons8-microsoft-sql-server-48](https://github.com/GenaroDS/GenaroDS/assets/87452846/08da6def-2a60-447e-b330-6f9cec7e6685)
 
 
