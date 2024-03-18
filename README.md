@@ -25,8 +25,6 @@ Here you can check out the personal projects I've been working on. If you're int
 
 
 ---
-
-<p align="left"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=genarods&theme=algolia&show_icons=true" alt="genarods" /></p>
   
 <p align="right"><img src="https://komarev.com/ghpvc/?username=genarods&label=Profile%20views&color=0e75b6&style=flat" alt="genarods" /> </p>
 
