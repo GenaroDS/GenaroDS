@@ -4,7 +4,7 @@ Software developer and advanced computer science student.<br>
 
 Here you can check out the personal projects I've been working on. If you're interested in seeing some of the code, take a look below! I'm always open to feedback, so any comments or suggestions you have would be appreciated. <br>
 
-- 🔧 Currently polishing my PingTester.NET app.
+- 🔧 Currently working as a software developer, and polishing my [PingTester.NET](https://github.com/GenaroDS/PingTester.NET) app in my spare time.
 - 👨‍💻 All of my projects are available on my [repositories](https://github.com/GenaroDS?tab=repositories) tab
 - 📫 Contact me **genarodistilio@gmail.com**
 
